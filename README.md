@@ -11,3 +11,11 @@ Cuando la jugadora introduzca un número igual que el aleatorio y pulse en Prueb
 Cuando la jugadora no introduzca un número válido y pulse en Prueba: El número debe estar
 entre 1 y 100.
 En la parte inferior debe aparecer el número de veces que se ha pulsado el bóton Prueba.
+
+Tenemos que generar un número --> función
+Las usuarias rellena el input con un número --> necesito saber que número es
+Aprieta el botón --> escuchar el botón --> evento
+Condicionales ¿es el número el aleatorio? Si No
+Si es que No
+Es el número del input más alto
+Es el número del input más bajo
