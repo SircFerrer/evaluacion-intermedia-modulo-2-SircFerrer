@@ -1,0 +1,16 @@
+.body {
+  box-sizing: border-box;
+}
+.main {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.try {
+  border: 1px solid black;
+}
