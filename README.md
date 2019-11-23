@@ -19,3 +19,24 @@ Condicionales ¿es el número el aleatorio? Si No
 Si es que No
 Es el número del input más alto
 Es el número del input más bajo
+
+CORRECCIÓN DEL EJERCICIO
+
+FLUJOGRAMA
+Arrancar página Generar y guardar en una constante un número aleatorio e iniciar el contador a 0
+Escuchar el botón Probar -- Prevenir el envío del formulario -- Leer el número del input, comparar con el número aleatorio y actualizar la pist --incrementar el contador
+
+PASOS
+[] DIAGRAMA DE FLUJO
+[]HTML/CSS
+[] Generar y guardar número aleatorio
+[]Pistas:
+
+-[]Leer el input
+-[] Comparar con el número aleatorio
+-[] Actualizar la pista
+
+[] Inicializar el contador
+
+- [] Incrmentar el contador cuando hago click en Prueba
+- [] Pintar el contador
