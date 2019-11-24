@@ -2,7 +2,7 @@
 const button = document.querySelector(".js-button");
 const input = document.querySelector(".js-input");
 const textResult = document.querySelector(".js-result");
-const number = document.querySelector(".js.number");
+const number = document.querySelector(".js-number");
 let counter = 0;
 
 function handleButton(event) {
@@ -35,9 +35,10 @@ const compareNumbers = function() {
     console.log("Demasiado bajo");
   }
 };
+
 const countChoices = function() {
   counter += 1;
   number.innerHTML = counter;
-}; // esta función no me funciona preguntar porque.
+};
 
 button.addEventListener("click", handleButton);
